@@ -4,6 +4,9 @@ table{
 	width:100%
 	border-collapse: collapse
 }
+.tablehead{
+	background-color: tomato;
+}
 th td{
 	padding: 8px;
 	text-align: left;
